@@ -16,7 +16,7 @@
         { "label": "-", "row": 0, "col": 11, "x": 11, "y": 0 },
         { "label": "=", "row": 0, "col": 12, "x": 12, "y": 0 },
         { "label": "Bksp", "row": 0, "col": 13, "x": 13, "y": 0},
-        { "label": "Del", "row": 0, "col": 14, "x": 14, "y": 0},
+        { "label": "PP", "row": 0, "col": 14, "x": 14, "y": 0},
 
         { "label": "Tab", "row": 1, "col": 0, "x": 0, "y": 1, "w": 1.5 },
         { "label": "Q", "row": 1, "col": 1, "x": 1.5, "y": 1 },
@@ -67,11 +67,11 @@
         { "label": "GUI", "row": 4, "col": 2, "x": 1.25, "y": 4, "w":1.25 },
         { "label": "LAlt", "row": 4, "col": 3, "x": 2.5, "y": 4, "w":1.25 },
         { "label": "Space", "row": 4, "col": 4, "x": 3.75, "y": 4, "w":6.25 },
-        { "label": "RAlt", "row": 4, "col": 5, "x": 10, "y": 4, "w":1 },
-        { "label": "Fn", "row": 4, "col": 6, "x": 11, "y": 4, "w":1 },
-        { "label": "Menu", "row": 4, "col": 7, "x": 12, "y": 4, "w":1},
-        { "label": "RCtrl", "row": 4, "col": 8, "x": 13, "y": 4, "w":1 },
-        { "label": "RCtrl-2", "row": 4, "col": 9, "x": 14, "y": 4, "w":1 }
+        { "label": "Fn", "row": 4, "col": 5, "x": 10, "y": 4, "w":1 },
+        { "label": "Menu", "row": 4, "col": 6, "x": 11, "y": 4, "w":1 },
+        { "label": "Left", "row": 4, "col": 7, "x": 12, "y": 4, "w":1},
+        { "label": "Right", "row": 4, "col": 8, "x": 13, "y": 4, "w":1 },
+
       ]
     }
   }
